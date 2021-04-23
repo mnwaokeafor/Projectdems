@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/mnwaokeafor/Projectdems.git
     targetRevision: HEAD
-    path: example-app
+    path: ARGO/example-app
     directory:
       recurse: true
   destination:
