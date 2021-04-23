@@ -1,7 +1,7 @@
 CLI
 
 argocd app create --name test \
---repo https://github.com/mnwaokeafor/ARGO \
+--repo https://github.com/mnwaokeafor/Projectdems \
 --dest-server https://kubernetes.default.svc \
 --dest-namespace myke --path kubernetes
 YAML
@@ -14,7 +14,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mnwaokeafor/ARGO.git
+    repoURL: https://github.com/mnwaokeafor/Projectdems.git
     targetRevision: HEAD
     path: argo/example-app
   destination:
