@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mnwaokeafor/ARGO.git
+    repoURL: https://github.com/mnwaokeafor/Projectdems.git
     targetRevision: HEAD
     path: example-app
     directory:
