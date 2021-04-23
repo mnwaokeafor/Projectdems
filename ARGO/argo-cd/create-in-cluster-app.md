@@ -16,7 +16,7 @@ spec:
   source:
     repoURL: https://github.com/mnwaokeafor/Projectdems.git
     targetRevision: HEAD
-    path: argo/example-app
+    path: ARGO/example-app
   destination:
     server: https://kubernetes.default.svc
     namespace: myke
